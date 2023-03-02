@@ -4,7 +4,7 @@ reverse_s = s[::-1]
 print(reverse_s)
 
 #string reversal
-s = "sai supriya"
+s = "sai sudeep"
 reverse_s = s[::-1]
 print(reverse_s)
 
